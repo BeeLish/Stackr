@@ -1,3 +1,5 @@
+
+### Gitignore template template
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
@@ -627,3 +629,4 @@ jspm_packages/
 # Cloud9 IDE - http://c9.io
 .c9revisions
 .c9
+
