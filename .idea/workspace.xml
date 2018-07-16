@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< Updated upstream
     <list default="true" id="58643148-4ed4-4702-98f9-ee0072718464" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Testpage/testpage.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Testpage/testpage.js" beforeDir="false" />
 =======
@@ -28,12 +31,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
 <<<<<<< Updated upstream
       <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="120">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
 =======
@@ -64,6 +68,9 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.css">
+          <provider selected="true" editor-type-id="text-editor" />
 <<<<<<< Updated upstream
       <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.css">
@@ -195,8 +202,9 @@
   </component>
 <<<<<<< Updated upstream
   <component name="ProjectFrameBounds">
-    <option name="y" value="15" />
+    <option name="y" value="23" />
     <option name="width" value="1044" />
+    <option name="height" value="1030" />
     <option name="height" value="1030" />
 =======
   <component name="ProjectFrameBounds" fullScreen="true">
@@ -216,10 +224,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="Stackr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stackr" type="462c0819:PsiDirectoryNode" />
+              <item name="stackr-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stackr-app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+              <item name="Stackr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stackr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Stackr" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stackr" type="462c0819:PsiDirectoryNode" />
 <<<<<<< Updated upstream
@@ -248,6 +259,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../fsft0518-shopping-redux-example" />
 <<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../fsft0518-shopping-redux-example" />
 =======
@@ -326,24 +338,24 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2315000" />
 <<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="2315000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="12" width="835" height="824" extended-state="0" />
+    <frame x="0" y="23" width="1044" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49563953" visible="true" weight="0.23182957" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4939759" visible="true" weight="0.23180076" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32994187" />
-      <window_info id="npm" order="2" sideWeight="0.50436044" side_tool="true" visible="true" weight="0.23182957" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" id="npm" order="2" sideWeight="0.5060241" side_tool="true" visible="true" weight="0.23180076" />
       <window_info anchor="bottom" id="Quokka" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32994187" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
 =======
     <option name="totallyTimeSpent" value="9298000" />
@@ -386,8 +398,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Testpage/testpage.js">
+    <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
         <state relative-caret-position="272">
           <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
 =======
@@ -400,6 +414,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Testpage/testpage.js" />
     <entry file="file://$PROJECT_DIR$/src/App.js">
 <<<<<<< Updated upstream
       <provider selected="true" editor-type-id="text-editor">
@@ -420,6 +435,16 @@
             <element signature="e#0#26#0" expanded="true" />
 >>>>>>> Stashed changes
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Testpage/testpage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -466,6 +491,19 @@
     <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Testpage/testpage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
 <<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/Testpage/testpage.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -501,8 +539,8 @@
 <<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="120">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
 =======
